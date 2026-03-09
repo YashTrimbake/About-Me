@@ -1,2 +1,3 @@
 # About-Me
-https://camo.githubusercontent.com/9c58d16da92d3398582e0bb88aec10a201f79ba197846a024931805085dfdb8e/68747470733a2f2f77616c6c70617065726163636573732e636f6d2f66756c6c2f353932373931312e676966
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/70203c2a-7833-47a8-b332-80b6bcaf3cd7" />
+
